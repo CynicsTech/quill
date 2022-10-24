@@ -11,7 +11,7 @@
 </head>
 <body>
   <!-- forma -->
-  <form action="config.php" name="submit" method="post">
+  <form action="config.php" method="post">
   <div class="container">
     <div class="head">
       <h1>REGISTER</h1>
@@ -37,7 +37,7 @@
       <input type="submit" name="button" value="REGISTER">
     </div>
     <div class="click">
-      <p>Click <a href="#">Login</a> if you already have an account</p>
+      <p>Click <a href="index.php">Login</a> if you already have an account</p>
     </div>
   </div>
 </form>   
